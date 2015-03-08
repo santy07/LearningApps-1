@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LearningApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Application resources -->
+    <string name="add_button_caption">Add</string>
+    <string name="pref_button_caption">Preferences</string>
+    <string name="add_view">ADD APPLICATION TO BLOCK LIST</string>
+    <string name="remove_view">REMOVE APPLICATION VIEW</string>
+    <string name="pref_view">PREFERENCES VIEW</string>
+    <string name="logout_view">LOGOUT</string>
+
+    
+    <string-array name="drawer_items">
+        <item >Add Application</item>
+        <item >Remove Application</item>
+        <item >Preferences</item>
+        <item >Logout</item>
+    </string-array>
+    
+    <string name="desc_list_item_icon">Item Icon</string>
+    
+</resources>
